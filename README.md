@@ -1,5 +1,6 @@
 This is the official implementation of "Domain-ensemble learning with cross-domain mixup for thoracic disease classification in unseen domains".
 
+## Citation
 If you find this work useful, please consider citing
 ```bash
 @article{WANG2023104488,

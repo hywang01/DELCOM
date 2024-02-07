@@ -3,7 +3,7 @@ This is the official implementation of "Domain-ensemble learning with cross-doma
 If you find this work useful, please consider citing
 ```bash
 @article{WANG2023104488,
-title = {Domain-ensemble learning with cross-domain mixup for thoracic disease classification in unseen domains},
+title = {Domain-ensemble learning with cross-domain mixup For thoracic disease classification In unseen domains},
 journal = {Biomedical Signal Processing and Control},
 volume = {81},
 pages = {104488},

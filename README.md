@@ -1,7 +1,7 @@
 This is the official implementation of the paper "[Domain-ensemble learning with cross-domain mixup for thoracic disease classification in unseen domains](https://www.sciencedirect.com/science/article/abs/pii/S1746809422009429)".
 
 <div align="center">
-  <img width="100%" alt="UniSeg illustration" src="fig/DELCOM.png">
+  <img width="80%" alt="UniSeg illustration" src="fig/DELCOM.png">
 </div>
 
 

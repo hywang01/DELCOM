@@ -1,6 +1,5 @@
 This is the official implementation of the paper "[Domain-ensemble learning with cross-domain mixup for thoracic disease classification in unseen domains](https://www.sciencedirect.com/science/article/abs/pii/S1746809422009429)".
 
-<<<<<<< HEAD
 <div align="center">
   <img width="100%" alt="UniSeg illustration" src="fig/DELCOM.png">
 </div>
@@ -8,10 +7,6 @@ This is the official implementation of the paper "[Domain-ensemble learning with
 
 ## Citation
 If this code is helpful for your study, please cite:
-=======
-## Citation
-If you find this work useful, please consider citing
->>>>>>> origin/master
 ```bash
 @article{WANG2023104488,
 title = {Domain-ensemble Learning with Cross-domain Mixup for Thoracic Disease Classification in Unseen Domains},

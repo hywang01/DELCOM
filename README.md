@@ -7,7 +7,7 @@ This is the official implementation of the paper "[Domain-ensemble learning with
 
 ## Citation
 If this code is helpful for your study, please cite:
-```bash
+```
 @article{WANG2023104488,
 title = {Domain-ensemble Learning with Cross-domain Mixup for Thoracic Disease Classification in Unseen Domains},
 journal = {Biomedical Signal Processing and Control},
